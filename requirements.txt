@@ -1,0 +1,7 @@
+requests
+typer[all]
+selenium
+selenium-wire
+requests
+urllib3
+rich
